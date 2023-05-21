@@ -17,3 +17,7 @@ app.use('/api/juegos', require('./routes/rutas')) //se le pone el . para ir a un
 //empezando el servidor
 app.listen(app.get('port')); //para que se lea desde un puerto, para poder accesar al servidor desde un buscador, se pone el app.get para que traiga la variable port, se usa app porque esta variable se puede obtener desde cualquier parte dentro de nuestro codigo
 console.log('mi primer servidor'); //esto se va imprimir en la consola
+
+
+
+//testing
