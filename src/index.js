@@ -1,3 +1,4 @@
+require('./database')
 const express=require('express'); //inicializacion require de express
 const app=express(); //sirve para poder hacer lo que nosotros queramos con la aplicacion, va instanciar lo que es express 
 const morgan=require('morgan'); //todos los const para configurar el servidor
