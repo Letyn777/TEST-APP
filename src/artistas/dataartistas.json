@@ -1,0 +1,17 @@
+{
+    "artista": {
+      "im_yippo":{
+    "id": "im_yippo",
+
+    "usuario":"log-out",
+    "carrito":"empty",
+    
+    "nickname": "yippo",
+      "banner" : "bannerartista",
+      "ppart" : "yippo.pp",
+      "desart":"I like to draw, sometimes. OC | Streamers | Anime & Games | KPOP insta/Tiktok : @/im_yippo",
+      "areas" : ["tradicional", "digital"],
+      "obraid" : "obraid"
+    }
+  }
+}

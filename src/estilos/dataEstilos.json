@@ -1,0 +1,128 @@
+{
+    "estilos": {
+      "estilos" :{
+        "Nestilos":["digital","tradicional","graffiti","acuarela","fotografía","cartoon","tatuajes","caligrafía"]
+      },
+      "Digital": {
+        
+        "Artistas": ["Yippo", "Lety", "What.Uc"],
+        "Yippo":{
+          "user":"yippo"
+
+        },
+        "Lety":{
+          "user":"lety"
+
+        },
+        "What.Uc":{
+          "user":"what.uc"
+        }
+        },
+        "Tradicional": {
+        
+          "Artistas": ["Yippo", "Lety", "What.Uc"],
+          "Yippo":{
+            "user":"yippo"
+  
+          },
+          "Lety":{
+            "user":"lety"
+  
+          },
+          "What.Uc":{
+            "user":"what.uc"
+          }
+          },
+          "Graffiti": {
+        
+            "Artistas": ["Yippo", "Lety", "What.Uc"],
+            "Yippo":{
+              "user":"yippo"
+    
+            },
+            "Lety":{
+              "user":"lety"
+    
+            },
+            "What.Uc":{
+              "user":"what.uc"
+            }
+            },
+            "Acuarela": {
+        
+              "Artistas": ["Yippo", "Lety", "What.Uc"],
+              "Yippo":{
+                "user":"yippo"
+      
+              },
+              "Lety":{
+                "user":"lety"
+      
+              },
+              "What.Uc":{
+                "user":"what.uc"
+              }
+              },
+              "Fotogafía": {
+        
+                "Artistas": ["Yippo", "Lety", "What.Uc"],
+                "Yippo":{
+                  "user":"yippo"
+        
+                },
+                "Lety":{
+                  "user":"lety"
+        
+                },
+                "What.Uc":{
+                  "user":"what.uc"
+                }
+                },
+                "Cartoon": {
+        
+                  "Artistas": ["Yippo", "Lety", "What.Uc"],
+                  "Yippo":{
+                    "user":"yippo"
+          
+                  },
+                  "Lety":{
+                    "user":"lety"
+          
+                  },
+                  "What.Uc":{
+                    "user":"what.uc"
+                  }
+                  },
+                  "Tatuajes": {
+        
+                    "Artistas": ["Yippo", "Lety", "What.Uc"],
+                    "Yippo":{
+                      "user":"yippo"
+            
+                    },
+                    "Lety":{
+                      "user":"lety"
+            
+                    },
+                    "What.Uc":{
+                      "user":"what.uc"
+                    }
+                    },
+                    "Caligrafía": {
+        
+                      "Artistas": ["Yippo", "Lety", "What.Uc"],
+                      "Yippo":{
+                        "user":"yippo"
+              
+                      },
+                      "Lety":{
+                        "user":"lety"
+              
+                      },
+                      "What.Uc":{
+                        "user":"what.uc"
+                      }
+                    }
+                    
+    }
+}

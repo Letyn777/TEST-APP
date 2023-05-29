@@ -1,0 +1,15 @@
+{
+    "SAO": {
+    "Nombre": "ShopArtOnline",
+    "Activo": "false"
+    },
+  
+  
+    "Home": {
+    "id": "Home",
+      "banner" : "bannertemp",
+      "usuario":"login",
+      "carrito":"empty"
+    }
+}
+  

@@ -1,0 +1,14 @@
+{
+    "Producto": {
+    "id": "productoid",
+    "nomProduct":"Calcetines",
+      "prdID" : "on",
+      "prdIMG" : "prdIMG",
+      "fotopr1" : "closeup",
+      "fotopr2" : "mckup1",
+      "fotopr3" : "color variation",
+      "prdinfo":"Ilustración del personaje principal de la serie One Piece, el cual es el pirata Luffy. Esta ilustración fue creada el 2023 en el porgrama de ilustración ClipStudio Paint por medio de una tableta digiatal, Huion kambas, con la finalidad de mostrar aprecio y agradecimiento al artista por darnos a conocr esta magnifiaca obra.",
+      "colores":["color1","color2","color3","color4"],
+      "qty" : "2"
+    }
+}
